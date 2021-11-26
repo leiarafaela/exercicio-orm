@@ -1,3 +1,3 @@
 # Exercício de ORM
 
-O exercício consiste em criar uma tabela no banco de dados, inserir e manipular o dados de filmes, e por fim gerer um arquivo json de saída.
+O exercício consiste em criar uma tabela 'FILMES' no banco de dados, importar dados sobre filmes de um arquivo .txt, manipula-los e por fim gerer um arquivo de saída em json.
